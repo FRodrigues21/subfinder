@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls c:/Users/Francisco/subfinder/Gemfile* c:/Users/Francisco/subfinder/bin/)",
+      "Bash(docker run --rm -v \"C:/Users/Francisco/subfinder:/app\" -w /app ruby:3.2.2-slim bash -c \"apt-get update -qq && apt-get install -y --no-install-recommends build-essential libpq-dev nodejs npm git curl && bundle install && bundle exec rails app:update:bin\")"
+    ]
+  }
+}

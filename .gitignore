@@ -1,0 +1,12 @@
+.env
+.env.local
+*.log
+log/
+tmp/
+.DS_Store
+*.swp
+*.swo
+node_modules/
+public/assets/
+public/packs/
+/storage/

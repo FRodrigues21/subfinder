@@ -1,0 +1,13 @@
+.git
+.gitignore
+log/*
+tmp/*
+!tmp/.keep
+.env
+.env.*
+!.env.example
+node_modules
+.DS_Store
+*.swp
+*.swo
+README.md
