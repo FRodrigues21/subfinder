@@ -4,6 +4,14 @@ A Python/FastAPI web app that finds and downloads subtitles for any video file v
 
 ---
 
+## Screenshots
+
+![Drop zone — drag and drop your video file](screenshots/dropzone.png)
+
+![Subtitle found — ready to download](screenshots/result.png)
+
+---
+
 ## Requirements
 
 - Docker & Docker Compose
